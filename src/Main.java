@@ -1,6 +1,6 @@
 public class Main {
     public static void main (String[] args) {
-            System.out.println("Привет, мир!");
+        System.out.println("Привет, мир!");
         Gryffindor potter = new Gryffindor("Гарри Поттер", "Гриффиндор", 50, 15, 60, 60, 60);
         Gryffindor granger = new Gryffindor("Гермиона Грейнджер", "Гриффиндор", 45, 10, 80, 80, 80);
         Gryffindor weasley = new Gryffindor("Рон Уизли", "Гриффиндор", 15, 1, 30, 30, 30);
